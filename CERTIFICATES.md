@@ -99,7 +99,7 @@ Completed practical tasks in data analysis and forensic technology, focusing on 
 - ✅ Analytical reporting
 
 ### Certificate
-📄 Certificate available in repository
+📄 [View Certificate PDF](file:///C:/Users/kaush/Downloads/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69118a1f233c5bf7f509cc9a_1763401839705_completion_certificate.pdf)
 
 ---
 
@@ -153,7 +153,8 @@ Comprehensive introduction to cybersecurity fundamentals, covering network secur
 - ✅ Data protection principles
 
 ### Certificate
-📄 Certificate available in repository
+📄 [View Certificate PDF](file:///C:/Users/kaush/Downloads/I2CSUpdate20251110-32-hcjp5e.pdf)
+
 
 ---
 
